@@ -1,6 +1,6 @@
 {
-  "title": "Test",
-  "description": "Test Scenario",
+  "title": "Test Scenario",
+  "description": "Test",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -21,6 +21,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "ubuntu"
+    "imageid": "kubernetes"
   }
 }

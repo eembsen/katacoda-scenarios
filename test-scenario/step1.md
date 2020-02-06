@@ -1,2 +1,1 @@
-# Step 1
-Use the kubectl command
+Use the kubectl command and retrieve all configuration of your Kubernetes environment.
